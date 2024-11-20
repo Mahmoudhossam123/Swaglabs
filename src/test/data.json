@@ -1,0 +1,11 @@
+[
+  {
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "invalid user": "invalid",
+    "invalid pass": "invalid",
+    "F_name": "Mahmoud",
+    "L_name": "Hossam",
+    "zip": "12573"
+  }
+]
